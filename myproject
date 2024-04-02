@@ -1,0 +1,10 @@
+#!/bin/bash
+
+echo "Start of my first project"
+
+mkdir mydevops
+cd mydevops
+ls
+touch script.sh
+
+echo " End of my first project"
